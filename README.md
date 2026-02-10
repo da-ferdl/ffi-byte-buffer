@@ -1,2 +1,2 @@
-# rust_ffi_byte_buffer
-Provides byte buffer utilities to send bytes across FFI
+# ffi-byte-buffer
+Provides rust byte buffer utilities to send bytes across FFI.
