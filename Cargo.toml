@@ -1,5 +1,5 @@
 [package]
-name = "rust-ffi-byte-buffer"
+name = "rust_ffi_byte_buffer"
 version = "0.1.0"
 authors = ["Fernando Lopes <fernando.lopes@freenet.de>"]
 license = "MIT"
